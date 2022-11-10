@@ -1,0 +1,3 @@
+class JiaguExt {
+    String userName
+}
